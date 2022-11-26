@@ -1,0 +1,11 @@
+form {
+  background-color: rgb(209, 208, 145);
+  text-align: center;
+}
+
+input {
+  font-size: 30px;
+  color: green;
+  width: 550px;
+}
+
