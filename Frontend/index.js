@@ -22,7 +22,7 @@
     }catch(err){
         console.log(err)
       }
-      
+        
     }
 
     window.addEventListener("DOMContentLoaded", async () => {
